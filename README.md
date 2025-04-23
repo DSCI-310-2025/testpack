@@ -7,7 +7,7 @@
 
 <!-- badges: end -->
 
-The goal of testpack is to …
+The goal of testpack is to test creating packages in a Github organisation.
 
 ## Installation
 
